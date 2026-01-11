@@ -42,7 +42,14 @@ This confirms that the solution involves finding hidden files or directories.
 I used two tools in parallel:
 
 * **Scout** – a URL fuzzer and spider for discovering undisclosed virtual hosts, files, and directories
+
+![Scout Output](scout%20output.png)
+
 * **Burp Suite Intruder** – for customizable payload-based directory brute forcing
+
+![BurpSuite Attack](burp-suite-intruder-attack.png)
+
+![BurpSuite Result](intruder-attack-result.png)
 
 Fuzzing the target:
 
