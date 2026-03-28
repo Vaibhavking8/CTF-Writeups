@@ -19,7 +19,8 @@ The application is vulnerable to Jinja2 SSTI. By bypassing filters using `attr()
 
 ## Thought Process & Approach
 
-The challenge hints at templating and input sanitization. This strongly suggests testing for **Server-Side Template Injection (SSTI)**.
+The challenge hints at templating and input sanitization. This strongly suggests testing for **Server-Side Template Injection (SSTI)**.  
+You can refer [https://portswigger.net/web-security/server-side-template-injection](https://portswigger.net/web-security/server-side-template-injection) to understand and get an idea about SSTI.
 
 ---
 
