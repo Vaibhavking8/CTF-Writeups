@@ -31,6 +31,8 @@ Wireshark is used for all analysis.
 
 ## Step 1 – Identify Rogue Tower
 
+<img width="1916" height="939" alt="image" src="https://github.com/user-attachments/assets/ae1f0740-4604-4b00-9bda-fd3651bdfd63" />
+
 Filter for suspicious broadcasts:
 
 ```
@@ -83,6 +85,8 @@ Multiple POST requests to:
 are observed. The payloads are small chunks of encoded data.
 
 ---
+
+<img width="1919" height="473" alt="image" src="https://github.com/user-attachments/assets/483d7e0e-9744-4d7c-952d-113836a5a37f" />
 
 ## Step 4 – Reconstruct Data
 
