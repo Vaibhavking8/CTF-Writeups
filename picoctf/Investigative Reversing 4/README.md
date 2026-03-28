@@ -30,6 +30,8 @@ This challenge combines reverse engineering and steganography. The plan:
 
 ## Step 1 – Initial Recon
 
+Online tool: [https://www.boxentriq.com/analysis/binary-analysis](https://www.boxentriq.com/analysis/binary-analysis)  
+
 Using basic analysis tools:
 
 ```
