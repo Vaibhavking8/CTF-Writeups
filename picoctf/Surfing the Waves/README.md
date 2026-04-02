@@ -5,7 +5,7 @@
 * **CTF Name:** picoCTF
 * **Challenge Name:** Surfing the Waves
 * **Category:** Forensics / Steganography
-* **Difficulty:** Medium
+* **Difficulty:** Medium-Hard
 * **Description:**
   A WAV audio file is provided. The goal is to analyze it and extract hidden data.
 
